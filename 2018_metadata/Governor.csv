@@ -1,0 +1,8 @@
+ContestID,ContestName,NominatingParty,PartyCode,AreaType,AreaNum,OfficeSeqNo,BallotOrder,CandidateID,CandidateName,CurrentDateTime,VoteFor,CandidateVotes,CandidatePercentage,PrecinctsReporting
+100038425,"Governor","","","","Statewide Partisan",4,,9901,"Write-in",12/9/2018 7:39:47 AM,1,3034,0.00162506956358259,1002/1335,
+100038425,"Governor","Constitution","","","Statewide Partisan",4,,100063718,"Aaron Auer",12/9/2018 7:39:47 AM,1,21145,0.0113256743315603,1002/1335,
+100038425,"Governor","Democrat, Working Families","","","Statewide Partisan",4,,300027544,"Kate Brown",12/9/2018 7:39:47 AM,1,934498,0.500535351690442,1002/1335,
+100038425,"Governor","Libertarian","","","Statewide Partisan",4,,100063719,"Nick Chen",12/9/2018 7:39:47 AM,1,28927,0.0154938652820546,1002/1335,
+100038425,"Governor","Independent","","","Statewide Partisan",4,,100061848,"Patrick Starnes",12/9/2018 7:39:47 AM,1,53392,0.0285977963542523,1002/1335,
+100038425,"Governor","Progressive","","","Statewide Partisan",4,,100064101,"Chris Henry",12/9/2018 7:39:47 AM,1,11013,0.00589877755561471,1002/1335,
+100038425,"Governor","Republican","","","Statewide Partisan",4,,100060616,"Knute Buehler",12/9/2018 7:39:47 AM,1,814988,0.436523465222494,1002/1335,
