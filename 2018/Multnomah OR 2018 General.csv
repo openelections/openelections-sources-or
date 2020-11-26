@@ -1,0 +1,221 @@
+ContestOrder,Contest,Contest ID,Choice,BallotsWith Contest,Votes,Overvoted WithVote for this Choice,Undervoted WithoutVote for this Choice,Ballots WithVotes for Others
+200,"US Representative, 1st District (Vote for 1)",8,Suzanne Bonamici,"33,966","27,710",1,"1,037","5,218"
+200,"US Representative, 1st District (Vote for 1)",8,John Verbeek,"33,966","4,183",0,"1,037","28,746"
+200,"US Representative, 1st District (Vote for 1)",8,Drew A Layda,"33,966","1,007",1,"1,037","31,921"
+200,"US Representative, 1st District (Vote for 1)",8,Write-in,"33,966",28,0,"1,037","32,901"
+250,"US Representative, 3rd District (Vote for 1)",13,Earl Blumenauer,"345,179","257,794",32,"9,349","78,004"
+250,"US Representative, 3rd District (Vote for 1)",13,Tom Harrison,"345,179","52,078",16,"9,349","283,736"
+250,"US Representative, 3rd District (Vote for 1)",13,Marc W Koller,"345,179","19,554",19,"9,349","316,257"
+250,"US Representative, 3rd District (Vote for 1)",13,Gary Lyndon Dye,"345,179","4,790",7,"9,349","331,033"
+250,"US Representative, 3rd District (Vote for 1)",13,Michael Marsh,"345,179","1,155",6,"9,349","334,669"
+250,"US Representative, 3rd District (Vote for 1)",13,Write-in,"345,179",421,2,"9,349","335,407"
+300,"US Representative, 5th District (Vote for 1)",23,Kurt Schrader,"4,180","3,005",1,118,"1,056"
+300,"US Representative, 5th District (Vote for 1)",23,Mark Callahan,"4,180",921,0,118,"3,141"
+300,"US Representative, 5th District (Vote for 1)",23,Dan Souza,"4,180",76,0,118,"3,986"
+300,"US Representative, 5th District (Vote for 1)",23,Marvin Sandnes,"4,180",57,1,118,"4,004"
+300,"US Representative, 5th District (Vote for 1)",23,Write-in,"4,180",2,0,118,"4,060"
+350,Governor (Vote for 1),12,Kate Brown,"382,593","279,384",31,"4,453","98,725"
+350,Governor (Vote for 1),12,Knute Buehler,"382,593","83,507",24,"4,453","294,609"
+350,Governor (Vote for 1),12,Patrick Starnes,"382,593","6,309",6,"4,453","371,825"
+350,Governor (Vote for 1),12,Nick Chen,"382,593","4,447",9,"4,453","373,684"
+350,Governor (Vote for 1),12,Chris Henry,"382,593","2,174",6,"4,453","375,960"
+350,Governor (Vote for 1),12,Aaron Auer,"382,593","1,793",5,"4,453","376,342"
+350,Governor (Vote for 1),12,Write-in,"382,593",484,6,"4,453","377,650"
+600,"State Senator, 16th District (Vote for 1)",20,Betsy Johnson,"3,419","2,683",0,382,354
+600,"State Senator, 16th District (Vote for 1)",20,Ray Biggs,"3,419",322,1,382,"2,714"
+600,"State Senator, 16th District (Vote for 1)",20,Write-in,"3,419",31,1,382,"3,005"
+650,"State Senator, 17th District (Vote for 1)",56,Eli Steiner Hayward,"13,613","9,743",0,"3,717",153
+650,"State Senator, 17th District (Vote for 1)",56,Write-in,"13,613",153,0,"3,717","9,743"
+750,"State Senator, 19th District (Vote for 1)",52,Rob Wagner,"18,342","14,001",3,915,"3,423"
+750,"State Senator, 19th District (Vote for 1)",52,David C Poulson,"18,342","3,406",4,915,"14,017"
+750,"State Senator, 19th District (Vote for 1)",52,Write-in,"18,342",16,1,915,"17,410"
+950,"State Senator, 24th District (Vote for 1)",28,Shemia Fagan,"34,954","23,201",2,"10,671","1,080"
+950,"State Senator, 24th District (Vote for 1)",28,Write-in,"34,954","1,080",2,"10,671","23,201"
+1050,"State Senator, 26th District (Vote for 1)",41,Chrissy Reitz,"18,016","8,985",0,796,"8,235"
+1050,"State Senator, 26th District (Vote for 1)",41,Chuck Thomsen,"18,016","8,217",0,796,"9,003"
+1050,"State Senator, 26th District (Vote for 1)",41,Write-in,"18,016",18,0,796,"17,202"
+1100,"State Representative, 27th District (Vote for 1)",49,Sheri Malstrom,"1,331",794,0,132,405
+1100,"State Representative, 27th District (Vote for 1)",49,Brian Pierson,"1,331",378,0,132,821
+1100,"State Representative, 27th District (Vote for 1)",49,Katy Brumbelow,"1,331",27,0,132,"1,172"
+1100,"State Representative, 27th District (Vote for 1)",49,Write-in,"1,331",0,0,132,"1,199"
+1150,"State Representative, 31st District (Vote for 1)",16,Brad Witt,"3,419","2,299",0,178,942
+1150,"State Representative, 31st District (Vote for 1)",16,Brian G Stout,"3,419",938,0,178,"2,303"
+1150,"State Representative, 31st District (Vote for 1)",16,Write-in,"3,419",4,0,178,"3,237"
+1200,"State Representative, 33rd District (Vote for 1)",51,Mitch Greenlick,"13,613","11,027",2,797,"1,787"
+1200,"State Representative, 33rd District (Vote for 1)",51,Elizabeth Reye,"13,613","1,765",2,797,"11,049"
+1200,"State Representative, 33rd District (Vote for 1)",51,Write-in,"13,613",22,0,797,"12,794"
+1250,"State Representative, 35th District (Vote for 1)",61,Margaret Doherty,"5,291","4,045",0,218,"1,028"
+1250,"State Representative, 35th District (Vote for 1)",61,Bob Niemeyer,"5,291","1,020",0,218,"4,053"
+1250,"State Representative, 35th District (Vote for 1)",61,Write-in,"5,291",8,0,218,"5,065"
+1300,"State Representative, 36th District (Vote for 1)",21,Jennifer Williamson,"38,112","28,081",0,"9,472",559
+1300,"State Representative, 36th District (Vote for 1)",21,Write-in,"38,112",559,0,"9,472","28,081"
+1350,"State Representative, 38th District (Vote for 1)",22,Andrea Salinas,"18,342","12,611",0,"5,466",265
+1350,"State Representative, 38th District (Vote for 1)",22,Write-in,"18,342",265,0,"5,466","12,611"
+1400,"State Representative, 41st District (Vote for 1)",24,Karin Power,"15,492","10,312",0,"5,007",173
+1400,"State Representative, 41st District (Vote for 1)",24,Write-in,"15,492",173,0,"5,007","10,312"
+1450,"State Representative, 42nd District (Vote for 1)",53,Rob Nosse,"42,531","37,222",1,"2,798","2,510"
+1450,"State Representative, 42nd District (Vote for 1)",53,Bru Alexander Knight,"42,531","2,400",1,"2,798","37,332"
+1450,"State Representative, 42nd District (Vote for 1)",53,Write-in,"42,531",110,0,"2,798","39,623"
+1500,"State Representative, 43rd District (Vote for 1)",35,Tawna Sanchez,"41,572","31,885",1,"9,261",425
+1500,"State Representative, 43rd District (Vote for 1)",35,Write-in,"41,572",425,1,"9,261","31,885"
+1550,"State Representative, 44th District (Vote for 1)",48,Tina Kotek,"32,795","27,194",3,"2,260","3,338"
+1550,"State Representative, 44th District (Vote for 1)",48,Manny Guerra,"32,795","3,181",5,"2,260","27,349"
+1550,"State Representative, 44th District (Vote for 1)",48,Write-in,"32,795",155,2,"2,260","30,378"
+1600,"State Representative, 45th District (Vote for 1)",26,Barbara Smith Warner,"36,427","25,695",1,"10,133",598
+1600,"State Representative, 45th District (Vote for 1)",26,Write-in,"36,427",598,1,"10,133","25,695"
+1650,"State Representative, 46th District (Vote for 1)",59,Alissa Keny-Guyer,"34,576","24,573",1,"9,421",581
+1650,"State Representative, 46th District (Vote for 1)",59,Write-in,"34,576",581,1,"9,421","24,573"
+1700,"State Representative, 47th District (Vote for 1)",31,Diego Hernandez,"22,934","14,741",0,"7,575",618
+1700,"State Representative, 47th District (Vote for 1)",31,Write-in,"22,934",618,0,"7,575","14,741"
+1750,"State Representative, 48th District (Vote for 1)",37,Jeff Reardon,"12,020","8,566",3,867,"2,584"
+1750,"State Representative, 48th District (Vote for 1)",37,Sonny Yellott,"12,020","2,538",2,867,"8,613"
+1750,"State Representative, 48th District (Vote for 1)",37,Write-in,"12,020",46,1,867,"11,106"
+1800,"State Representative, 49th District (Vote for 1)",34,Chris Gorsek,"22,646","11,045",4,"1,092","10,505"
+1800,"State Representative, 49th District (Vote for 1)",34,Justin Hwang,"22,646","9,658",3,"1,092","11,893"
+1800,"State Representative, 49th District (Vote for 1)",34,Heather Ricks,"22,646",826,1,"1,092","20,727"
+1800,"State Representative, 49th District (Vote for 1)",34,Write-in,"22,646",21,0,"1,092","21,533"
+1850,"State Representative, 50th District (Vote for 1)",36,Carla C Piluso,"23,476","14,595",1,"7,920",960
+1850,"State Representative, 50th District (Vote for 1)",36,Write-in,"23,476",960,1,"7,920","14,595"
+1900,"State Representative, 51st District (Vote for 1)",43,Janelle S Bynum,"11,473","6,566",0,510,"4,397"
+1900,"State Representative, 51st District (Vote for 1)",43,Lori Chavez-DeRemer,"11,473","4,369",0,510,"6,594"
+1900,"State Representative, 51st District (Vote for 1)",43,Write-in,"11,473",28,0,510,"10,935"
+1950,"State Representative, 52nd District (Vote for 1)",42,Jeff Helfrich,"6,543","3,442",0,210,"2,891"
+1950,"State Representative, 52nd District (Vote for 1)",42,Anna Williams,"6,543","2,887",0,210,"3,446"
+1950,"State Representative, 52nd District (Vote for 1)",42,Write-in,"6,543",4,0,210,"6,329"
+2500,"Judge of the Supreme Court, Position 5 (Vote for 1)",9,Adrienne Nelson,"382,593","219,114",5,"159,991","3,483"
+2500,"Judge of the Supreme Court, Position 5 (Vote for 1)",9,Write-in,"382,593","3,483",5,"159,991","219,114"
+2700,"Judge of the Court of Appeals, Position 2 (Vote for 1)",5,Bronson D James,"382,593","196,323",4,"182,821","3,445"
+2700,"Judge of the Court of Appeals, Position 2 (Vote for 1)",5,Write-in,"382,593","3,445",4,"182,821","196,323"
+2800,"Judge of the Court of Appeals, Position 4 (Vote for 1)",4,Robyn Ridler Aoyagi,"382,593","206,478",6,"173,284","2,825"
+2800,"Judge of the Court of Appeals, Position 4 (Vote for 1)",4,Write-in,"382,593","2,825",6,"173,284","206,478"
+2950,"Judge of the Court of Appeals, Position 7 (Vote for 1)",2,Steven R Powers,"382,593","202,109",4,"177,553","2,927"
+2950,"Judge of the Court of Appeals, Position 7 (Vote for 1)",2,Write-in,"382,593","2,927",4,"177,553","202,109"
+3000,Judge of the Oregon Tax Court (Vote for 1),11,Robert Manicke,"382,593","201,107",3,"178,547","2,936"
+3000,Judge of the Oregon Tax Court (Vote for 1),11,Write-in,"382,593","2,936",3,"178,547","201,107"
+3100,"Judge of the Circuit Court, 4th District, Position 30 (Vote for 1)",18,Benjamin N Souede,"382,593","185,890",65,"105,048","91,590"
+3100,"Judge of the Circuit Court, 4th District, Position 30 (Vote for 1)",18,Bob Callahan,"382,593","90,168",66,"105,048","187,311"
+3100,"Judge of the Circuit Court, 4th District, Position 30 (Vote for 1)",18,Write-in,"382,593","1,412",22,"105,048","276,111"
+3550,"Judge of the Circuit Court, 4th District, Position 10 (Vote for 1)",10,Kat von Ter Stegge,"382,593","197,205",4,"182,429","2,955"
+3550,"Judge of the Circuit Court, 4th District, Position 10 (Vote for 1)",10,Write-in,"382,593","2,955",4,"182,429","197,205"
+3800,"Judge of the Circuit Court, 4th District, Position 15 (Vote for 1)",6,Christopher A Ramras,"382,593","193,207",1,"186,436","2,949"
+3800,"Judge of the Circuit Court, 4th District, Position 15 (Vote for 1)",6,Write-in,"382,593","2,949",1,"186,436","193,207"
+4400,"Judge of the Circuit Court, 4th District, Position 27 (Vote for 1)",14,Patricia L McGuire,"382,593","204,527",2,"175,530","2,534"
+4400,"Judge of the Circuit Court, 4th District, Position 27 (Vote for 1)",14,Write-in,"382,593","2,534",2,"175,530","204,527"
+5302,"Multnomah County, Auditor (Vote for 1)",15,Jennifer McGuirk,"382,593","161,957",60,"100,677","119,899"
+5302,"Multnomah County, Auditor (Vote for 1)",15,Scott Learn,"382,593","118,498",61,"100,677","163,357"
+5302,"Multnomah County, Auditor (Vote for 1)",15,Write-in,"382,593","1,396",10,"100,677","280,510"
+5400,"City of Fairview, Mayor (Vote for 1)",60,Brian Cooper,"3,567","1,552",0,477,"1,538"
+5400,"City of Fairview, Mayor (Vote for 1)",60,Ted Tosterud,"3,567","1,512",0,477,"1,578"
+5400,"City of Fairview, Mayor (Vote for 1)",60,Write-in,"3,567",26,0,477,"3,064"
+5405,"City of Fairview, Councilor, Position 4 (Vote for 1)",67,Balwant Bhullar,"3,567","1,499",0,701,"1,367"
+5405,"City of Fairview, Councilor, Position 4 (Vote for 1)",67,Russell M Williams,"3,567","1,359",0,701,"1,507"
+5405,"City of Fairview, Councilor, Position 4 (Vote for 1)",67,Write-in,"3,567",8,0,701,"2,858"
+5410,"City of Fairview, Councilor, Position 5 (Vote for 1)",45,Natalie Voruz,"3,567","1,755",1,748,"1,063"
+5410,"City of Fairview, Councilor, Position 5 (Vote for 1)",45,Edward L Jones,"3,567","1,051",1,748,"1,767"
+5410,"City of Fairview, Councilor, Position 5 (Vote for 1)",45,Write-in,"3,567",12,0,748,"2,807"
+5415,"City of Fairview, Councilor, Position 6 (Vote for 1)",44,Darren Riordan,"3,567","1,570",1,706,"1,290"
+5415,"City of Fairview, Councilor, Position 6 (Vote for 1)",44,Antonia Kreamier,"3,567","1,280",1,706,"1,580"
+5415,"City of Fairview, Councilor, Position 6 (Vote for 1)",44,Write-in,"3,567",10,0,706,"2,851"
+5420,"City of Gresham, Mayor (Vote for 1)",47,Shane T Bemis,"38,423","24,162",8,"5,211","9,042"
+5420,"City of Gresham, Mayor (Vote for 1)",47,Allen Cox,"38,423","8,879",7,"5,211","24,326"
+5420,"City of Gresham, Mayor (Vote for 1)",47,Write-in,"38,423",163,1,"5,211","33,048"
+5425,"City of Gresham, Councilor, Position 2 (Vote for 1)",33,Eddy Morales,"38,423","15,368",4,"7,620","15,431"
+5425,"City of Gresham, Councilor, Position 2 (Vote for 1)",33,Kirk French,"38,423","15,310",5,"7,620","15,488"
+5425,"City of Gresham, Councilor, Position 2 (Vote for 1)",33,Write-in,"38,423",120,1,"7,620","30,682"
+5430,"City of Gresham, Councilor, Position 4 (Vote for 1)",40,Mario A Palmero,"38,423","9,837",20,"9,899","18,667"
+5430,"City of Gresham, Councilor, Position 4 (Vote for 1)",40,Paul Drechsler,"38,423","5,752",16,"9,899","22,756"
+5430,"City of Gresham, Councilor, Position 4 (Vote for 1)",40,Raymond Love,"38,423","5,483",13,"9,899","23,028"
+5430,"City of Gresham, Councilor, Position 4 (Vote for 1)",40,Ryan C Johnson,"38,423","4,549",15,"9,899","23,960"
+5430,"City of Gresham, Councilor, Position 4 (Vote for 1)",40,Benjamin Jones,"38,423","1,815",17,"9,899","26,692"
+5430,"City of Gresham, Councilor, Position 4 (Vote for 1)",40,Antonio Medel,"38,423",825,6,"9,899","27,693"
+5430,"City of Gresham, Councilor, Position 4 (Vote for 1)",40,Write-in,"38,423",236,0,"9,899","28,288"
+5435,"City of Gresham, Councilor, Position 6 (Vote for 1)",29,Janine M Gladfelter,"38,423","21,190",0,"16,867",366
+5435,"City of Gresham, Councilor, Position 6 (Vote for 1)",29,Write-in,"38,423",366,0,"16,867","21,190"
+5440,"City of Maywood Park, Council Member (Vote for 3)",64,Michelle J Montross,520,396,0,108,16
+5440,"City of Maywood Park, Council Member (Vote for 3)",64,Chris Williams,520,370,0,129,21
+5440,"City of Maywood Park, Council Member (Vote for 3)",64,Jim Akers,520,360,0,131,29
+5440,"City of Maywood Park, Council Member (Vote for 3)",64,Write-in,520,59,0,136,325
+5440,"City of Maywood Park, Council Member (Vote for 3)",64,Write-in,520,15,0,149,356
+5440,"City of Maywood Park, Council Member (Vote for 3)",64,Write-in,520,5,0,149,366
+5445,"City of Portland, Commissioner, Position 3 (Vote for 1)",17,Jo Ann A Hardesty,"320,879","165,220",114,"53,616","101,929"
+5445,"City of Portland, Commissioner, Position 3 (Vote for 1)",17,Loretta Smith,"320,879","99,402",115,"53,616","167,746"
+5445,"City of Portland, Commissioner, Position 3 (Vote for 1)",17,Write-in,"320,879","2,524",9,"53,616","264,730"
+5450,"City of Troutdale, Councilor, Position 1 (Vote for 1)",63,David Ripma,"6,873","4,028",0,"2,741",104
+5450,"City of Troutdale, Councilor, Position 1 (Vote for 1)",63,Write-in,"6,873",104,0,"2,741","4,028"
+5455,"City of Troutdale, Councilor, Position 3 (Vote for 1)",46,Jamie Kranz,"6,873","3,961",0,"2,833",79
+5455,"City of Troutdale, Councilor, Position 3 (Vote for 1)",46,Write-in,"6,873",79,0,"2,833","3,961"
+5460,"City of Troutdale, Councilor, Position 5 (Vote for 1)",38,Nick Moon,"6,873","1,992",4,"1,700","3,177"
+5460,"City of Troutdale, Councilor, Position 5 (Vote for 1)",38,Paul Wilcox,"6,873","1,920",3,"1,700","3,250"
+5460,"City of Troutdale, Councilor, Position 5 (Vote for 1)",38,Deb Reuter,"6,873","1,200",4,"1,700","3,969"
+5460,"City of Troutdale, Councilor, Position 5 (Vote for 1)",38,Write-in,"6,873",57,0,"1,700","5,116"
+5465,"City of Wood Village, Councilor, Position 1 (Vote for 1)",66,Bruce Nissen,988,585,0,384,19
+5465,"City of Wood Village, Councilor, Position 1 (Vote for 1)",66,Write-in,988,19,0,384,585
+5470,"City of Wood Village, Councilor, Position 4 (Vote for 1)",39,John C Miner,988,591,0,375,22
+5470,"City of Wood Village, Councilor, Position 4 (Vote for 1)",39,Write-in,988,22,0,375,591
+5475,"City of Lake Oswego, Councilor (Vote for 3)",57,Daniel Nguyen,"1,763",749,2,471,541
+5475,"City of Lake Oswego, Councilor (Vote for 3)",57,Emma Burke,"1,763",667,2,494,600
+5475,"City of Lake Oswego, Councilor (Vote for 3)",57,Jackie Manz,"1,763",601,1,507,654
+5475,"City of Lake Oswego, Councilor (Vote for 3)",57,Massene Mboup,"1,763",592,3,482,686
+5475,"City of Lake Oswego, Councilor (Vote for 3)",57,John Wendland,"1,763",513,1,466,783
+5475,"City of Lake Oswego, Councilor (Vote for 3)",57,Randy Lee Arthur,"1,763",442,2,490,829
+5475,"City of Lake Oswego, Councilor (Vote for 3)",57,Hannah Crummé,"1,763",259,1,515,988
+5475,"City of Lake Oswego, Councilor (Vote for 3)",57,Donald Mattersdorff,"1,763",105,0,509,"1,149"
+5475,"City of Lake Oswego, Councilor (Vote for 3)",57,Write-in,"1,763",13,0,514,"1,236"
+5475,"City of Lake Oswego, Councilor (Vote for 3)",57,Write-in,"1,763",3,0,519,"1,241"
+5475,"City of Lake Oswego, Councilor (Vote for 3)",57,Write-in,"1,763",2,0,519,"1,242"
+5480,"City of Milwaukie, Mayor (Vote for 1)",58,Mark Gamba,0,0,0,0,0
+5480,"City of Milwaukie, Mayor (Vote for 1)",58,Write-in,0,0,0,0,0
+5485,"City of Milwaukie, Councilor, Position 2 (Vote for 1)",65,Elvis Clark,0,0,0,0,0
+5485,"City of Milwaukie, Councilor, Position 2 (Vote for 1)",65,Lisa Batey,0,0,0,0,0
+5485,"City of Milwaukie, Councilor, Position 2 (Vote for 1)",65,Write-in,0,0,0,0,0
+5490,"City of Milwaukie, Councilor, Position 4 (Vote for 1)",68,Katharine Hyzy,0,0,0,0,0
+5490,"City of Milwaukie, Councilor, Position 4 (Vote for 1)",68,Write-in,0,0,0,0,0
+5500,"Metro Councilor, District 2 (Vote for 1)",19,Christine Lewis,"12,971","5,321",3,"3,273","4,374"
+5500,"Metro Councilor, District 2 (Vote for 1)",19,Joe Buck,"12,971","4,335",3,"3,273","5,360"
+5500,"Metro Councilor, District 2 (Vote for 1)",19,Write-in,"12,971",39,0,"3,273","9,659"
+5825,"Multnomah East Soil and Water, Director, At-Large, Position  (Vote for 1)",25,Allison Hensey,"302,485","155,419",3,"143,943","3,120"
+5825,"Multnomah East Soil and Water, Director, At-Large, Position  (Vote for 1)",25,Write-in,"302,485","3,120",3,"143,943","155,419"
+5850,"Multnomah East Soil and Water, Director, Zone 1 (Vote for 1)",32,Write-in,"302,485","38,044",0,"264,441",0
+5950,"Multnomah East Soil and Water, Director, Zone 3 (Vote for 1)",30,Michael Guebert,"302,485","147,174",2,"152,519","2,790"
+5950,"Multnomah East Soil and Water, Director, Zone 3 (Vote for 1)",30,Write-in,"302,485","2,790",2,"152,519","147,174"
+6000,"Multnomah West Soil and Water, Director, At-Large, Position  (Vote for 1)",3,Shawn Looney,"80,108","41,907",0,"37,513",688
+6000,"Multnomah West Soil and Water, Director, At-Large, Position  (Vote for 1)",3,Write-in,"80,108",688,0,"37,513","41,907"
+6250,"Multnomah West Soil and Water, Director, Zone 4 (Vote for 1)",1,Brian W Lightcap,"80,108","42,412",0,"37,100",596
+6250,"Multnomah West Soil and Water, Director, Zone 4 (Vote for 1)",1,Write-in,"80,108",596,0,"37,100","42,412"
+6300,"Multnomah West Soil and Water, Director, Zone 5 (Vote for 1)",7,Terri Preeg Riggsby,"80,108","42,690",0,"36,910",508
+6300,"Multnomah West Soil and Water, Director, Zone 5 (Vote for 1)",7,Write-in,"80,108",508,0,"36,910","42,690"
+6375,"Columbia River PUD, Director, Subdivision 1 (Vote for 1)",50,Debbie Reed,251,127,0,91,33
+6375,"Columbia River PUD, Director, Subdivision 1 (Vote for 1)",50,Guy Auker,251,33,0,91,127
+6375,"Columbia River PUD, Director, Subdivision 1 (Vote for 1)",50,Write-in,251,0,0,91,160
+6450,"Rockwood Water People's Utility District, Director, Sub-D2 (Vote for 1)",55,Colby Riley,"3,616","2,004",1,"1,584",27
+6450,"Rockwood Water People's Utility District, Director, Sub-D2 (Vote for 1)",55,Write-in,"3,616",27,1,"1,584","2,004"
+6500,"Rockwood Water People's Utility District, Director, Sub-D3 (Vote for 1)",54,Kathy A Zimmerman,"3,915","2,163",0,"1,726",26
+6500,"Rockwood Water People's Utility District, Director, Sub-D3 (Vote for 1)",54,Write-in,"3,915",26,0,"1,726","2,163"
+6600,"Rockwood Water People's Utility District, Director, Sub-D5 (Vote for 1)",27,Larry G Dixon,"2,872","1,597",0,"1,259",16
+6600,"Rockwood Water People's Utility District, Director, Sub-D5 (Vote for 1)",27,Write-in,"2,872",16,0,"1,259","1,597"
+6700,"Interlachen Water People's Utility District,  Dir, Sub-D2 (Vote for 1)",62,Yuval Golan,55,28,0,27,0
+6700,"Interlachen Water People's Utility District,  Dir, Sub-D2 (Vote for 1)",62,Write-in,55,0,0,27,28
+6750,"Interlachen Water People's Utility District, Dir, Sub-D3 (Vote for 1)",69,Terry E Schulz,42,39,0,3,0
+6750,"Interlachen Water People's Utility District, Dir, Sub-D3 (Vote for 1)",69,Write-in,42,0,0,3,39
+20010,Measure 102 (Vote for 1),70,Yes,"382,593","266,514",128,"10,869","105,082"
+20010,Measure 102 (Vote for 1),70,No,"382,593","105,082",128,"10,869","266,514"
+20020,Measure 103 (Vote for 1),71,No,"382,593","275,041",439,"6,326","100,787"
+20020,Measure 103 (Vote for 1),71,Yes,"382,593","100,787",439,"6,326","275,041"
+20030,Measure 104 (Vote for 1),72,No,"382,593","291,851",136,"14,218","76,388"
+20030,Measure 104 (Vote for 1),72,Yes,"382,593","76,388",136,"14,218","291,851"
+20040,Measure 105 (Vote for 1),73,No,"382,593","306,898",89,"7,085","68,521"
+20040,Measure 105 (Vote for 1),73,Yes,"382,593","68,521",89,"7,085","306,898"
+20050,Measure 106 (Vote for 1),74,No,"382,593","312,457",80,"6,149","63,907"
+20050,Measure 106 (Vote for 1),74,Yes,"382,593","63,907",80,"6,149","312,457"
+20060,Measure 3-537 (Vote for 1),75,No,"1,763","1,041",0,192,530
+20060,Measure 3-537 (Vote for 1),75,Yes,"1,763",530,0,192,"1,041"
+20070,Measure 3-538 (Vote for 1),76,Yes,"1,763",866,0,216,681
+20070,Measure 3-538 (Vote for 1),76,No,"1,763",681,0,216,866
+20080,Measure 26-200 (Vote for 1),77,Yes,"320,879","265,511",77,"17,022","38,269"
+20080,Measure 26-200 (Vote for 1),77,No,"320,879","38,269",77,"17,022","265,511"
+20090,Measure 26-201 (Vote for 1),78,Yes,"320,879","201,948",116,"11,331","107,484"
+20090,Measure 26-201 (Vote for 1),78,No,"320,879","107,484",116,"11,331","201,948"
+20100,Measure 26-199 (Vote for 1),79,Yes,"378,348","238,770",79,"15,171","124,328"
+20100,Measure 26-199 (Vote for 1),79,No,"378,348","124,328",79,"15,171","238,770"
+20110,Measure 26-198 (Vote for 1),80,Yes,955,711,1,49,194
+20110,Measure 26-198 (Vote for 1),80,No,955,194,1,49,711
